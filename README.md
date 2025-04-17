@@ -27,13 +27,13 @@
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"13h 00","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Infideles"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"13h 40","jour":"Les Consentements","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Le Destin de Zoya"},
+{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"13h 40","jour":"Les Consentements","thumb":"https://od.lk/s/ODdfMzc0ODU2MjBf/destinzoya.jpg","title":"Le Destin de Zoya"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"14h 20","jour":"Jamai Raja","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"The Perfect Son-In-Law"},
+{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"14h 20","jour":"Jamai Raja","thumb":"https://od.lk/s/ODdfMzc0ODU2MjFf/perfectgendre.jpg","title":"The Perfect Son-In-Law"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"15h 00","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"KASAM Ep"},
+{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"15h 00","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODU1NDRf/kassam.jpg","title":"KASAM Ep"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"15h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","title":"Ganga"},
+{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"15h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODU1NDNf/ganga.jpg","title":"Ganga"},
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"16h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Ma Raison d'Etre"},
 
@@ -53,10 +53,10 @@
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"21h 10","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Dah Amangon Mars"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"21h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Au Nom de l'Amour"},
+{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"21h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODU0ODJf/aunomdelamour.jpg","title":"Au Nom de l'Amour"},
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"22h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Dah Djogbenon Mars"},
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"22h 50","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Abdoulaye"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"000h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Beacon 23"}]}]}
+{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"000h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODU0ODNf/beacon23.jpg","title":"Beacon 23"}]}]}
