@@ -3,7 +3,7 @@
 
 {"description":"Les Couleurs de l'Amour une histoire d'amour","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"05h 00","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTFf/gtvone.jpg","title":"Les Couleurs de l'Amour"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"05h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTNf/mara1.jpg","title":"Mara une Femme Unique"},
+{"description":"Mara, une femme unique, raconte une histoire d'amour entre Mara, une jeune infirmière métisse, et Luis Miguel, un jeune homme portugais. Leur relation est compliquée par les conflits familiaux, les secrets et les conspirations qui les entourent. L'histoire se déroule entre Lisbonne et Luanda, et suit les péripéties de plusieurs personnages, notamment les familles de Mara et Luis Miguel, ainsi que leurs amis et collègues.   L'histoire suit les tribulations de ces personnages, qui doivent faire face à des défis de toutes sortes, notamment les secrets de famille, les rivalités, les conflits et les changements de vie qui les bouleversent. La série est un mélodrame qui explore les thèmes de l'amour, de la famille, de la richesse et des inégalités, tout en mettant en lumière les différences culturelles entre le Portugal et l'Angola.","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"05h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTNf/mara1.jpg","title":"Mara une Femme Unique"},
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"06h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMThf/veuveBlanche.jpg","title":"La Veuve Blanche"},
 
@@ -11,7 +11,7 @@
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"07h 40","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMDlf/amourEternel.jpg","title":"L'Amour Eternel"},
 
-{"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"08h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTJf/luckybreak.jpg","title":"Lucky Break"},
+{"description":"Lucky Break, ou Golpe de Sorte en portugais, est une série télévisée portugaise qui suit l'histoire d'un groupe de personnes empêtrées dans un réseau complexe de tromperies et d'intrigues. La série s'articule autour du projet d'une famille de récupérer une fortune volée. L'intrigue principale se concentre sur la quête de Maria do Céu pour retrouver son fils, Rafael, et son périple ultérieur avec sa coach personnelle, Miriam. L'intrigue explore également les relations personnelles des personnages, leurs identités secrètes et les conséquences de leurs actes. Golpe de Sorte (Lucky Break) était une série portugaise qui a commencé à être diffusée sur SIC le 27 mai 2019 et s'est terminée le 20 février 2021. La série met en vedette Maria João Abreu, Dânia Neto, Jorge Corrula, Diana Chaves (saisons 2-3), Pedro Barroso (saison 4), Madalena Almeida (saison 4) et Diogo Martins. ","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"08h 20","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTJf/luckybreak.jpg","title":"Lucky Break"},
 
 {"description":"une histoire vraie","sources":["https://ott.livelegitpro.in/pusa/gtv1/index.m3u8"],"heure":"09h 00","jour":"Chaque Jour","thumb":"https://od.lk/s/ODdfMzc0ODUyMTBf/fillemadamekholi.jpg","title":"Fille de Madame Kholi"},
 
